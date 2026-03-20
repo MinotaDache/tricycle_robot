@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/minota/tricycle_robot/build/my_trirob_description/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

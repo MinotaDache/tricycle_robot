@@ -1,9 +1,0 @@
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/uninstall.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/my_trirob_description_uninstall.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/test.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/edit_cache.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/rebuild_cache.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/list_install_components.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/install.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/install/local.dir
-/home/minota/tricycle_robot/build/my_trirob_description/CMakeFiles/install/strip.dir
