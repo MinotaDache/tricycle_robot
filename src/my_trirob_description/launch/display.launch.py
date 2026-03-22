@@ -10,7 +10,7 @@ from launch.substitutions import Command
 def generate_launch_description():
 
     urdf_path= os.path.join(get_package_share_path('my_trirob_description'),
-                            'urdf', 'my_trirob.urdf')
+                            'urdf', 'my_trirob.urdf.xacro')
     
     robot_description = ParameterValue(Command(['xacro ', urdf_path]), value_type= str)
 
